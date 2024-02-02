@@ -1,6 +1,6 @@
 /** @type {import('ts-jest').JestConfigWithTsJest} */
-const baseDir = '<rootDir>/src/app/doubles'
-const baseTestDir = '<rootDir>/src/test/doubles'
+const baseDir = '<rootDir>/src/app/pass_checker'
+const baseTestDir = '<rootDir>/src/test/pass_checker'
 
 module.exports = {
   preset: 'ts-jest',
